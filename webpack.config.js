@@ -59,7 +59,7 @@ function copyAndReplace({ is2d }) {
             transform(content) {
               let config = JSON.parse(content.toString());
               config.name = "@dimforge/rapier";
-              config.types = "rapier.ts";
+              config.types = "rapier.d.ts";
               config.main = "rapier.js";
               config.files = ["*"];
               delete config.module;

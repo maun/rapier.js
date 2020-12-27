@@ -1,0 +1,14 @@
+{
+  "inputFiles": [
+    "./rapier3d/pkg/dynamics",
+    "./rapier3d/pkg/geometry",
+    "./rapier3d/pkg/pipeline",
+    "./rapier3d/pkg/rapier.d.ts",
+    "./rapier3d/pkg/math.d.ts"
+  ],
+  "target": "es5",
+  "mode": "file",
+  "excludeExternals": true,
+  "includeDeclarations": true,
+  "excludeNotDocumented": false
+}

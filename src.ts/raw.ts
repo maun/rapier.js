@@ -1,1 +1,1 @@
-export * from '../rapier3d/pkg/rapier_wasm3d'
+// filled in by webpack, depending on 2d or 3d.

@@ -1,0 +1,20 @@
+{
+  "name": "@dimforge/rapier",
+  "collaborators": [
+    "Sébastien Crozet <developer@crozet.re>"
+  ],
+  "description": "2-dimensional physics engine in Rust - official JS bindings.",
+  "version": "0.2.13",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimforge/rapier.js"
+  },
+  "files": [
+    "*"
+  ],
+  "homepage": "https://rapier.rs",
+  "types": "rapier.ts",
+  "sideEffects": false,
+  "main": "rapier.js"
+}
